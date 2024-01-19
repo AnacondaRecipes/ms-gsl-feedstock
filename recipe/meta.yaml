@@ -44,6 +44,12 @@ about:
   license_family: MIT
   license_file: LICENSE
   summary: Guidelines Support Library
+  description: |
+    The Guidelines Support Library (GSL) contains functions and types that are suggested
+    for use by the C++ Core Guidelines maintained by the Standard C++ Foundation. This repo
+    contains Microsoft's implementation of GSL.
+  dev_url: https://github.com/microsoft/GSL
+  doc_url: https://github.com/microsoft/GSL
 
 extra:
   recipe-maintainers:
